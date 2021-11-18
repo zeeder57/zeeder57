@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @zeeder57
+- 👀 I’m interested in ... my 2 games im developing
+- 🌱 I’m currently learning ... python and js
+- 💞️ I’m looking to collaborate on ... nothing i work by myself
+- 📫 How to reach me ... you dont
